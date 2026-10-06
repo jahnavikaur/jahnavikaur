@@ -269,24 +269,11 @@ A quiz data platform with a JSON-based import pipeline designed to normalize and
 
 <!-- ✦ SNAKE ✦ -->
 
-## 🐍 Contribution Snake
+## 🐰 Little Garden
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jahnavikaur/jahnavikaur/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jahnavikaur/jahnavikaur/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/jahnavikaur/jahnavikaur/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="assets/cute-banner.svg" width="100%" alt="cute animated banner" />
 
 </div>
 
